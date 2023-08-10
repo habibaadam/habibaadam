@@ -15,8 +15,7 @@ Currently Learning Software Engineering ✍🏽👩🏽‍💻<br><br>Well verse
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=habibaadam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 😂 Removed Meme :) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=habibaadam&icon=7&color=3)](https://visitcount.itsvg.in)
