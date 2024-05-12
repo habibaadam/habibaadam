@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Learning Software Engineering ✍🏽👩🏽‍💻<br><br>Well versed In Data Analytics/Data Science🖤<br><br>FunFact: Honesty is the best policy and always what I stick by :)
+Currently Learning Software Engineering ✍🏽👩🏽‍💻🖤<br><br>FunFact: Honesty is the best policy and always what I stick by :)
 
 
 ## 🌐 Socials:
