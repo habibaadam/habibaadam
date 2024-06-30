@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="29" alt="javascript logo"  />
   <img width="41" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="29" alt="python logo"  />
@@ -85,8 +85,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/habibaadam/habibaadam/output/snake.svg" alt="Snake animation" />
 
 ###
 
