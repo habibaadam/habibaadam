@@ -1,11 +1,16 @@
-# 💫 About Me:
+<div align="center">
+ 💫 About Me:
 Aspiring Jnr Software Engineer, enjoying coding with the MERN stack, and sometimes switching to Flask :) 🖤
-
+/div>
+  
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-# Contact Me:
+<div align="center">
+Contact Me
+</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/habiba-adam-salisu-570555267" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin logo"  />
