@@ -1,5 +1,5 @@
 <div align="center">
- 💫 About Me:
+ # 💫 About Me:
 Aspiring Jnr Software Engineer, enjoying coding with the MERN stack, and sometimes switching to Flask :) 🖤
 /div>
   
@@ -8,7 +8,7 @@ Aspiring Jnr Software Engineer, enjoying coding with the MERN stack, and sometim
 </div>
 
 <div align="center">
-Contact Me
+# Contact Me
 </div>
 
 <div align="center">
