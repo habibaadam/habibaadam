@@ -1,7 +1,8 @@
  # 💫 About Me:
  <div align="center">
 Aspiring Jnr Software Engineer, enjoying coding with the MERN stack, and sometimes switching to Flask :) 🖤
-  /div>
+ </div>
+ <br/>
   
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
