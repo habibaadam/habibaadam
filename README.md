@@ -1,6 +1,6 @@
  # 💫 About Me:
  <div align="center">
-A Jnr Software Engineer(Backend), enjoying coding with the MERN stack with Typescript, and sometimes switching to Flask :) 🖤
+ Software Engineer (Backend-first). Was MERN, now NestJS + FastAPI + React with TypeScript. :) 🖤
  </div>
  <br/>
   
