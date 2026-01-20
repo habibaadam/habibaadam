@@ -1,6 +1,6 @@
  # 💫 About Me:
  <div align="center">
- Software Engineer (Backend-first). Was MERN, now NestJS + FastAPI + React with TypeScript. :) 🖤
+ Backend-first Software Engineer. Started with MERN, now focused on NestJS, FastAPI, and React + TypeScript. :) 🖤
  </div>
  <br/>
   
