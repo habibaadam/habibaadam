@@ -1,6 +1,6 @@
  # 💫 About Me:
  <div align="center">
- Backend-first Software Engineer. Started with MERN, now focused on NestJS, FastAPI, and React + TypeScript. :) 🖤
+ Backend-first Software Engineer focused on scalable APIs and system design. NestJS, FastAPI, React + TypeScript:) 🖤
  </div>
  <br/>
   
