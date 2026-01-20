@@ -8,7 +8,7 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-# Find/contact me at:
+# Connect with me at:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/habiba-adam-salisu-570555267" target="_blank">
