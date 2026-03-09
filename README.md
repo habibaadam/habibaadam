@@ -9,7 +9,7 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
  
 </div>
----
+
 
 <div align="center">
  
@@ -66,8 +66,7 @@
 ![](https://github-profile-trophy-kannan.vercel.app/?username=habibaadam&theme=monokai&no-frame=false&margin-w=4)
 
 </div>
----
-[![](https://visitcount.itsvg.in/api?id=habibaadam&icon=9&color=8)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
